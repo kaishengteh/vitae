@@ -13,11 +13,6 @@ hosted in [Github pages](https://pages.github.com/).
 [Vitae Live Demo](https://jekyller.github.io/vitae)
 
 
-## Screenshots
-
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
-
-
 ## How to use it
 
 Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
